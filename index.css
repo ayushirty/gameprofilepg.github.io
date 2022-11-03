@@ -1,0 +1,123 @@
+main{
+    background-color: #00ccff;
+    height: 700px;
+    width: 70%;
+    margin: 50px auto;
+   padding-right: 2px;
+}
+ .activegames{
+    background-color: #c3e0e7;
+    width: 100%;
+    height: 700px;
+    margin: 50px auto;
+    border-radius: 25px;
+    display: flex;
+}
+.profile{
+    background-color: #eef5f7;
+    height: 700px;
+    width: 35%;
+    border-radius: 25px;
+    margin-left: 0px;
+    text-align: center;
+     padding-top: 0px;
+    
+}
+.profile img{
+    border-radius: 50%;
+    margin-top: 40px;   
+}
+.profile h4{
+    margin-top: 5px;
+    color: #6d98a3;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.pro{
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-top:-15px;
+    font-weight: bold;
+    color: #8c9ca1;
+}
+.links{
+    color: #8c9ca1;
+    font-size: 28px;
+   margin-top: 60px;
+   text-align: justify;
+   margin-left: -10px;
+
+}
+.content{
+    display: flex;
+    justify-content: space-evenly;
+}
+.links2{
+    color: #8c9ca1;
+    font-size: 28px;
+    margin-top: 60px;
+    
+}
+.links i{
+    color: #29e6ff;
+    margin-left: 50px;
+}
+.join{
+    background-color: #98e2ff;
+    height: 100px;
+    width: 250px;
+    margin-top: 40px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+.join i{
+    color: rgb(233, 135, 7);
+}
+.activegames_{
+        margin-left: 60px;
+}
+.activegames_ h1{
+    margin-top: 50px;
+    font-family: sans-serif;
+    color: #6d98a3;
+    font-weight: bold;
+}
+.skills{
+    width: 300px;
+    height: 25px;
+    background-color: #eef5f7;
+    border-radius: 10px;
+    margin-top: -20px;
+}
+.skills60{
+    height: 140px;
+    width: 500px;
+    background-color: #eef5f7;
+    margin-top: 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+.skills60 img{
+    border-radius: 40px;
+    padding: 20px;
+}
+.skills60 p{
+    color: #8c9ca1;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+.skills60 b{
+    font-size: 12px;
+}
+.skills60 button{
+    background-color: #98e2ff;
+    width: 270px;
+    height: 22px;
+    border-radius: 10px;
+    border: none;
+}
